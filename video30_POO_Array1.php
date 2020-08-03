@@ -32,4 +32,7 @@ $datos=array("nombre"=>"Guillermo", "Apellidos"=>"Guillermo", "Edad"=>34, "statu
 echo $datos["nombre"];
 echo $datos["Edad"];
 
+
+
+
 ?>
