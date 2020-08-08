@@ -71,7 +71,3 @@ while($fila=mysqli_fetch_assoc($resultados))
 mysqli_close($conexion);
 ?>
 </body>
-linea adicionada en la rama test
-prueba test
-a
-sS
