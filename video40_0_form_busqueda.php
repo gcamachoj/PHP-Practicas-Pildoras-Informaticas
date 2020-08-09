@@ -6,9 +6,10 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="pagina_busqueda.php" method="get"></form>
-    <label for="buscar">Buscar</label>
+    <form action="video40_1_form_busqueda.php" method="post">
+    <label for="buscar">Buscar Placa</label>
     <input type="text" name="buscar">
     <input type="submit" name="enviar" value="Dale!">
+    </form>
     </body>
 </html>
