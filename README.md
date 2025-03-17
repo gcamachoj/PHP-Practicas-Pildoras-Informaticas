@@ -15,7 +15,4 @@ https://www.pildorasinformaticas.es/course/php-mysql/curriculum/
 ## 🛠️ **Tecnologías Usadas**  
 🔹 PHP + MySQL
 
-## 🚀 **Cómo Ejecutarlo**  
-1️⃣ Clonar el repositorio:  
-   ```bash
-   git clone https://github.com/tuusuario/nombre-del-repo.git
+
