@@ -1,4 +1,4 @@
-# 🚀 Nombre del Proyecto  
+# 🚀 Practicas de PHP basadas en el curso de PHP de Píldoras Informáticas. 
 
 📢 **Descripción:**  
 Este repositorio laboratorios prácticos en php, basados en un curso que realicé en youtube en el portao del **Píldoras Informáticas**, del cual dejo referencia.
