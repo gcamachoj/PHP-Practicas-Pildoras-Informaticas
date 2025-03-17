@@ -8,6 +8,7 @@ https://www.pildorasinformaticas.es/course/php-mysql/curriculum/
 🔹 Práctica personal: Laboratorios basados en el curso de PHP de Píldoras Informáricas.  
 
 ## 🌟 **Contenido del Curso**
+Los archivos son basados en prácticas de cada video del curso.
 ✔️ **Sintaxix Básica**  
 ✔️ **POO**  
 ✔️ **Operaciones con BBDD**
