@@ -1,7 +1,5 @@
 # 🚀 Prácticas de PHP – Curso de Píldoras Informáticas  
-
-📢 **Descripción**  
-Este repositorio contiene laboratorios prácticos de PHP, desarrollados como parte del curso impartido por **Píldoras Informáticas** en YouTube. Puedes acceder al curso en el siguiente enlace:  
+📢 **Descripción**: Este repositorio contiene laboratorios prácticos de PHP, desarrollados como parte del curso impartido por **Píldoras Informáticas** en YouTube. Puedes acceder al curso en el siguiente enlace:  
 
 🔗 [PHP y MySQL – Píldoras Informáticas](https://www.pildorasinformaticas.es/course/php-mysql/curriculum/)  
 
